@@ -49,13 +49,13 @@ button i {
 }
 
 #play {
-  background-color: green;
+  background-color: rgb(10, 121, 10);
 }
 
 #pause {
-  background-color: orange;
+  background-color: rgb(181, 130, 37);
 }
 
 #reset {
-  background-color: red;
+  background-color: rgb(255, 0, 0);
 }
