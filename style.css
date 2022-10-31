@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 body {
-  background: url(Images/background.jpg) no-repeat center center/cover;
+  background: url(Images/bg-img.jpg) no-repeat center center/cover;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -16,7 +16,7 @@ body {
 .container {
   width: 30%;
   height: 250px;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.7);
   border-radius: 30px;
   box-shadow: 0 0 3px;
 }
